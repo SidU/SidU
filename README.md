@@ -36,6 +36,15 @@ My recent focus has been on integrating with GPT LLMs.
 - Financial posting
 - ETL data-transformation
 
+### 🎧 Podcast
+I host the [Apps People Stories podcast](https://appspeoplestories.com/) which delve into the stories and projects of Teams app developers. Catch it on any of the platforms below!
+
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/apps-people-stories-podcast)
+- [Spotify](https://open.spotify.com/show/28MAQd509cvE5EyQyTCwHD)
+- [Sticher](https://www.stitcher.com/show/apps-people-stories---podcast/)
+- [Anchor](https://anchor.fm/appspeoplestories)
+- [iHeartRadio](https://www.iheart.com/podcast/269-apps-people-stories-podcas-106949260/)
+
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/siduppal/)
 - [Twitter](https://twitter.com/upster)
