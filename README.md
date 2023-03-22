@@ -37,7 +37,7 @@ My recent focus has been on integrating with GPT LLMs.
 - ETL data-transformation
 
 ### 🎧 Podcast
-I host the [Apps People Stories podcast](https://appspeoplestories.com/) which delve into the stories and projects of Teams app developers. Catch it on any of the platforms below!
+I host the [Apps People Stories podcast](https://appspeoplestories.com/) which delves into the stories and projects of Teams app developers. Catch it on any of the platforms below!
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/apps-people-stories-podcast)
 - [Spotify](https://open.spotify.com/show/28MAQd509cvE5EyQyTCwHD)
