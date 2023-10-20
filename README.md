@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm Sid and I currently work at Microsoft Teams, where I focus on developing APIs, SDKs, client-extensibility, and services that enable support for Bots, Meeting Extensions, Live Share, and AI integration powered by GPT family of LLMs.
+I'm Sid and I currently work at Microsoft Teams, where I focus on developing APIs, SDKs, client-extensibility, and services that enable support for Bots, Meeting Extensions, Live Share, and AI integration powered by GPT and open-source LLMs.
 
 I'm always eager to learn and experiment with new things, and I enjoy brainstorming ideas and helping others imagine the possibilities of their own projects. Feel free to reach out to me if you have any questions about anything mentioned here, or if you'd like to discuss any projects or ideas.
 
